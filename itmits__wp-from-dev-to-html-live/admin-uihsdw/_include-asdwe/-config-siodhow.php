@@ -37,7 +37,7 @@ $admin_menu_page_config = array(
 $admin_menu_page_fields = array(
     'Fields' => 
         array(
-            'label_slug' => '** PAY ATTENTION THIS WILL REPLACE FILES ON THE REMOTE FTP SERVER ***',
+            'label_slug' => '** PAY ATTENTION THIS WILL REPLACE FILES ON THE REMOTE FTP SERVER - READ THE FOLLOWING CODE CAREFULLY BEFORE PROCEED***',
             'fields' => array(
                 //# FTP
                 'Host' => 
