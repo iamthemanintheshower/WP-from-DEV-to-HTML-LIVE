@@ -86,18 +86,7 @@ $admin_menu_page_fields = array(
                     array(
                         'field_slug' => 'cached_root',
                         'field_type' => 'text'
-                    ),
-//                
-//                'Checkbox' =>
-//                    array(
-//                        'field_slug' =>'checkbox_field',
-//                        'field_type' => 'checkbox'
-//                    ),
-//                'Textarea' => 
-//                    array(
-//                        'field_slug' =>'textarea_field',
-//                        'field_type' => 'textarea'
-//                    ),
+                    )
             )
         ),
     );
